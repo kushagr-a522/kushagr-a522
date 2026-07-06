@@ -12,7 +12,7 @@ Python | Pandas | NumPy | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | S
 ## Projects
 | Project                   | Tools                        | Link              |
 |---------------------------|------------------------------|-------------------|
-| Superstore Sales Analysis | Python, SQL, Power BI        |     [View](https://github.com/kushagr-a522/SuperStore_EDA) |
+| Superstore Sales Analysis | Python, SQL, Power BI        |       [View](https://github.com/kushagr-a522/SuperStore_EDA) |
 | Netflix Content Analysis  | Python, SQL, Power BI, Excel | [View](https://github.com/kushagr-a522/Netflix-Content-Analysis)In Progress |
 | HR Attrition Analysis     | Python, SQL, Power BI        |    Coming Soon    |
 
