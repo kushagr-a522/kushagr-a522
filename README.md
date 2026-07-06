@@ -2,12 +2,12 @@
 
 Aspiring Data Analyst | Python | SQL | Power BI
 
----
+
 
 ## Skills
-Python | Pandas | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | Seaborn | Data Cleaning | EDA | Storytelling
+Python | Pandas | NumPy | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | Seaborn | Data Cleaning | EDA | Storytelling
 
----
+
 
 ## Projects
 | Project                   | Tools                        | Link              |
@@ -16,8 +16,9 @@ Python | Pandas | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | Seaborn |
 | Netflix Content Analysis  | Python, SQL, Power BI, Excel | [View](https://github.com/kushagr-a522/Netflix-Content-Analysis)In Progress |
 | HR Attrition Analysis     | Python, SQL, Power BI        |    Coming Soon    |
 
----
+
 
 ## Connect
 LinkedIn: [www.linkedin.com/in/kushagra-y522]
+
 Email: [ykushagra42@gmail.com]
