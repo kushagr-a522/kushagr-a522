@@ -18,7 +18,7 @@ Python | Pandas | NumPy | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | S
 
 ---
 
-## Connect
+## Connect with Me
 LinkedIn: [www.linkedin.com/in/kushagra-y522]
 
 Email: [ykushagra42@gmail.com]
