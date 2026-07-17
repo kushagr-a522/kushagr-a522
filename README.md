@@ -1,6 +1,6 @@
 # Hi, I'm Kushagra Yadav
 
-FicData Analyst | Python | SQL | Power BI
+Data Analyst | Python | SQL | Power BI
 
 ---
 
@@ -9,7 +9,7 @@ Python | Pandas | NumPy | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | S
 
 ---
 
-![GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=kushagr-a522&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kushagr-a522&show_icons=true&theme=tokyonight)
 
 ---
 
