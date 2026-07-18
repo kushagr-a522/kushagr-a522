@@ -13,7 +13,7 @@ Python | Pandas | NumPy | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | S
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kushagr-a522&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api?username=kushagr-a522&show_icons=true&theme=tokyonight)
 
 ---
 
