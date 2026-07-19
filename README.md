@@ -1,6 +1,7 @@
 # Hi, I'm Kushagra Yadav
 
-Data Analyst | Python | SQL | Power BI
+Aspiring Data Analyst turning messy datasets into business decisions — Python, SQL, Power BI.
+Recent project: found a $600K+ annual profit leak hidden in a retail dataset and proposed the fix.
 
 ---
 
@@ -18,15 +19,16 @@ Python | Pandas | NumPy | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | S
 ---
 
 ## Projects
-| Project                   | Tools                        | Link              |
-|---------------------------|------------------------------|-------------------|
-| Superstore Sales Analysis | Python, SQL, Power BI        |[View](https://github.com/kushagr-a522/SuperStore_EDA)Complete! |
-| Netflix Content Analysis  | Python, SQL, Power BI, Excel | [View](https://github.com/kushagr-a522/Netflix-Content-Analysis)In Progress |
-| HR Attrition Analysis     | Python, SQL, Power BI        |    Coming Soon    |
+
+| Project                   | Tools                        | Key Finding | Link |
+|---------------------------|------------------------------|---|---|
+| Superstore Sales Analysis | Python, SQL, Power BI        | Found discounting was silently wiping out 40%+ of profit - proposed a 20% cap to recover $600K/year | [View ->](https://github.com/kushagr-a522/SuperStore_EDA) |
+| Netflix Content Analysis  | Python, SQL, Power BI, Excel | Discovered co-productions were undercounting real country contributions by up to 3x - UK's true involvement was hidden by naive counting | [View →](https://github.com/kushagr-a522/Netflix-Content-Analysis) `In Progress` |
+| HR Attrition Analysis     | Python, SQL, Power BI        | Coming soon | -- |
 
 ---
 
 ## Connect with Me
-LinkedIn: [www.linkedin.com/in/kushagra-y522]
+LinkedIn: [kushagra-y522](www.linkedin.com/in/kushagra-y522)
 
-Email: [ykushagra42@gmail.com]
+Email: ykushagra42@gmail.com
