@@ -56,8 +56,6 @@ Week 2 of a self-directed data analyst portfolio sprint -> Netflix Content Analy
 
 *stats and streak cards go here*
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kushagr-a522&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api?username=kushagr-a522&show_icons=true&theme=tokyonight)
 
 ---
