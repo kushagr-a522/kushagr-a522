@@ -11,6 +11,12 @@ Recent project: Found a $600K+ annual profit leak hidden in a retail dataset and
 
 ---
 
+## Impact at a Glance
+
+**51,290** rows analyzed &nbsp;|&nbsp; **$600K+** in recoverable profit identified &nbsp;|&nbsp; **7** dashboards & charts shipped &nbsp;|&nbsp; **2** end-to-end projects completed
+
+---
+
 ## Projects
 
 | Project                   | Tools                        | Key Finding | Link |
@@ -35,21 +41,28 @@ Python | Pandas | NumPy | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | S
 
 ---
 
+## Currently Building
+Week 2 of a self-directed data analyst portfolio sprint -> Netflix Content Analysis (Day 12/14), Power BI dashboard next.
+
+---
+
 ## Currently Learning
 - Power BI advanced DAX measures
 - SQL window functions
 
 ---
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kushagr-a522&show_icons=true&theme=tokyonight)
+## GitHub Activity
 
----
+*stats and streak cards go here*
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kushagr-a522&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api?username=kushagr-a522&show_icons=true&theme=tokyonight)
 
 ---
 
 ## Connect with Me
-LinkedIn: [kushagra-y522](www.linkedin.com/in/kushagra-y522)
+LinkedIn: [kushagra-y522](https://www.linkedin.com/in/kushagra-y522/)
 
 Email: ykushagra42@gmail.com
