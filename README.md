@@ -42,7 +42,7 @@ Python | Pandas | NumPy | SQL (SQLite) | Power BI | Excel | Git | Matplotlib | S
 ---
 
 ## Currently Building
-Week 2 of a self-directed data analyst portfolio sprint -> Netflix Content Analysis (Day 12/14), Power BI dashboard next.
+Week 2 of a self-directed data analyst portfolio sprint -> Netflix Content Analysis (Day 12/15), Power BI dashboard next.
 
 ---
 
