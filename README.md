@@ -1,5 +1,5 @@
 # Hi, I'm Kushagra Yadav
-Aspiring Data Analyst turning messy datasets into business decisions — Python, SQL, Power BI.
+Aspiring Data Analyst turning messy datasets into business decisions - Python, SQL, Power BI.
 Recent project: Found a $600K+ annual profit leak hidden in a retail dataset and proposed the fix.
 
 ---
@@ -20,7 +20,7 @@ Recent project: Found a $600K+ annual profit leak hidden in a retail dataset and
 ## Projects
 
 | Project                   | Tools                        | Key Finding | Link |
-|---------------------------|------------------------------|---|---|
+|---------------------------|------------------------------|-------------|------|
 | Superstore Sales Analysis | Python, SQL, Power BI        | Found discounting was silently wiping out 40%+ of profit - proposed a 20% cap to recover $600K/year | [View ->](https://github.com/kushagr-a522/SuperStore_EDA) `Completed` |
 | Netflix Content Analysis  | Python, SQL, Power BI, Excel | Discovered co-productions were undercounting real country contributions by up to 3x - UK's true involvement was hidden by naive counting | [View ->](https://github.com/kushagr-a522/Netflix-Content-Analysis) `Completed` |
 | HR Attrition Analysis     | Python, SQL, Power BI        | Coming soon | -- |
